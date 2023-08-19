@@ -2,7 +2,7 @@
 
 👀 I’m interested in cybersecurity
 
-🌱 I’m currently learning c++
+🌱 C++, Golang
 
 💞️ I’m looking to collaborate on any project really, I just want to learn
 
